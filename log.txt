@@ -1,0 +1,5 @@
+commit 7b0cddce6e5ae17386eb3a3fa422d26c07451666 (HEAD -> logging, master)
+Author: Marko <marko.dimitrijeski@gmail.com>
+Date:   Wed Mar 20 20:32:29 2019 +0100
+
+    Initial commit
